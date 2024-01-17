@@ -1,2 +1,2 @@
 # CoupeIUT.html
-Nawel, tu devais pas envoyer un truc ici ?
+Ici, futur site web pour la Coupde de France des IUT 2024
